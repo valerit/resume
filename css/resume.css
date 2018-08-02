@@ -32,6 +32,12 @@ h2 {
   font-size: 3.5rem;
 }
 
+.exptitle {
+  font-weight: 500;
+  font-size: 22px;
+  color: black;
+}
+
 .subheading {
   font-weight: 500;
   font-family: 'Saira Extra Condensed', serif;
